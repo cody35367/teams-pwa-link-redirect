@@ -1,0 +1,16 @@
+{
+"AutoLaunchProtocolsFromOrigins": [
+ {
+  "allowed_origins": [
+   "*"
+  ],
+  "protocol": "ftl"
+ },
+ {
+  "allowed_origins": [
+   "*"
+  ],
+  "protocol": "ftls"
+ }
+]
+}
