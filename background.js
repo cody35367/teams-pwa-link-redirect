@@ -20,7 +20,8 @@ chrome.runtime.onInstalled.addListener(() => {
             "teams.microsoft.us",
             "gov.teams.microsoft.us",
             "login.microsoftonline.us",
-            "outlook.office365.us"
+            "outlook.office365.us",
+            "extensions.gnome.org"
           ],
         },
       },
