@@ -4,7 +4,8 @@
     "version": "1.0",
     "description": "Open links in the default browser",
     "permissions": [
-      "declarativeNetRequest"
+      "declarativeNetRequest",
+      "tabs"
     ],
     "host_permissions": ["<all_urls>"],
     "background": {
