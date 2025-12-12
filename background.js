@@ -51,4 +51,4 @@ setInterval(() => {
       }
     }
   });
-}, 2000); // Check every 2 seconds
+}, 5000); // Check every 5 seconds
